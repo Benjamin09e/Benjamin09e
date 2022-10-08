@@ -16,7 +16,7 @@
 
 Passionné par le développement web et la création d'applications. J'ai su faire preuvemd'une organisation et d'une polyvalence dans mes projets. J'aimerais dès la rentrée prochaine faire partir de vos effectifs.
 
-### Etude d'informatique, à 3IL puis Ecole Multimédia ?
+### Etude d'informatique, à 3IL puis Ecole PMN ?
 ```javascript
 const raphael = new Object();
 function God() {
