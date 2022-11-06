@@ -1,7 +1,7 @@
 ## Salut *Beinvenue* ICI! :sparkles:
 
 <p align="center">
-  ### je suis Benjamin EKIA 
+  <h1> je suis Benjamin EKIA </h1>
 </p>
 
 <p align = "center">
