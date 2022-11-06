@@ -1,7 +1,7 @@
 ## Salut *Beinvenue* ICI! :sparkles:
 
 <p align="center">
-  je suis Benjamin EKIA 
+  ### je suis Benjamin EKIA 
 </p>
 
 <p align = "center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Je vis à Saint-Etienne et je suis développeur web.
+  Je vis à (Saint-Etienne)/(Paris) ah oui! et je suis développeur web.
 </p> 
 
 ### Pourquoi développeur web ?
