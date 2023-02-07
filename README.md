@@ -1,7 +1,7 @@
 ## Salut *Beinvenue* ICI! :sparkles:
 
 
-  <h1 align="center"> je suis Benjamin EKIA </h1>
+  <h1 align="center"> je suis Benjamin EKIA MOUANGA </h1>
 
 <p align = "center">
   <img align = "center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479ravwcf4k31ixcq6vn9z6e18fxq9q7o7d04sh3ay&rid=giphy.gif&ct=g" />
