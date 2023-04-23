@@ -77,7 +77,7 @@ j'essaye de faire en sorte que pour le maximum de personnes cela ne finisse pas 
     <img alt="ekia benjamin"  width="50px" src="https://logos-marques.com/wp-content/uploads/2021/03/Gmail-Logo-2013.png"/>
   </a>
   <a href="https://www.linkedin.com/in/benjamin-ekia-mouanga-b351351b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU%2FZXqyAaS9CoTD2VSRuG1g%3D%3D">
-    <img alt="Linkedin benjamin ekia" width="50px" src="https://logos-marques.com/wp-content/uploads/2021/03/Linkedin-Logo-2013.png" />
+    <img alt="Linkedin benjamin ekia" width="50px" src="https://clipground.com/images/linkedin-clipart-5.jpg" />
   </a>
 </p>
 
