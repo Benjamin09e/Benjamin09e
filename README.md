@@ -74,7 +74,7 @@ j'essaye de faire en sorte que pour le maximum de personnes cela ne finisse pas 
 <p align="center">
   <br/>
   <a href="mailto:ekiabenjamin@gmail.com?subject=Bonjour!">
-    <img alt="ekia benjamin"  width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"/>
+    <img alt="ekia benjamin"  width="50px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgmail_281769&psig=AOvVaw2RCAmiyCF60Byc6yqhMsNc&ust=1682344054964000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKiU35CSwP4CFQAAAAAdAAAAABAI)"/>
   </a>
   <a href="https://www.linkedin.com/in/benjamin-ekia-mouanga-b351351b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU%2FZXqyAaS9CoTD2VSRuG1g%3D%3D">
     <img alt="Linkedin benjamin ekia" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
