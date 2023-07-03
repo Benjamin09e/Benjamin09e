@@ -65,7 +65,7 @@ function GodDetectBullshit(isBullshit) {
 Oui
 > Non 😭
 
-Je possède aussi une chaine **Youtube** ou je partage mes connaissances sur des questions précises afin d'aider au mieux le plus de monde possible et surtout
+Je possède aussi une compte sur **Voscours** ou je partage mes connaissances sur des questions précises afin d'aider au mieux le plus de monde possible et surtout
 j'essaye de faire en sorte que pour le maximum de personnes cela ne finisse pas par une erreur sur leurs écrans.<br/>
 *(Cela me rappelle vaguement une sensation)*
 
