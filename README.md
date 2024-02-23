@@ -17,7 +17,7 @@ Passionné par le développement web et la création d'applications. J'ai su fai
 
 ### Etude d'informatique, à 3IL puis Ecole PMN ?
 ```javascript
-const raphael = new Object();
+const benjamin = new Object();
 function God() {
   if(raphael.diplomes > 0){
     return console.log("I'm you'r graduate men !");
