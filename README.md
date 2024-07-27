@@ -18,8 +18,8 @@ Passionné par le développement web et la création d'applications. J'ai su fai
 ```javascript
 const benjamin = new Object();
 function God() {
-  if(raphael.diplomes > 0){
-    return console.log("I'm you'r graduate men !");
+  if(bengy.diplomes > 0){
+    return console.log("I'm you're graduate men !");
   }
  return console.log("Sorry, i can do nothing for you.");
 }
@@ -34,7 +34,6 @@ function God() {
   - [x] Apprendre chaque jour est devenu une habitude
   - [x] Devoir résoudre seul des problèmes est une obligation
   - [x] Savoir effectuer des recherches
-  - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
   ``` 
   Error: Too many re-renders. God limits number of
   renders to prevent an infinite loop of stupidity.
