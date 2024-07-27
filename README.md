@@ -1,4 +1,4 @@
-## Salut *Beinvenue* ICI! :sparkles
+## Salut *Beinvenue* ICI!
 
   <h1 align="center"> je suis Benjamin EKIA MOUANGA </h1>
 
