@@ -8,12 +8,11 @@
 
 <p align="center">
   Je vis à (Saint-Etienne)/(Paris) ah oui! et je suis développeur web.
-  <a href="https://benjamin-ekia.netlify.app/">Ici mon portfolio</a>
 </p> 
 
 ### Pourquoi développeur web ?
 
-Passionné par le développement web et la création d'applications. J'ai su faire preuve d'une organisation et d'une polyvalence dans mes projets.
+Passionné par le développement web et la création d'applications. J'ai su faire preuve d'une organisation et d'une polyvalence dans mes projets. <a href="https://benjamin-ekia.netlify.app/">Ici mon portfolio</a>
 
 ### Etude d'informatique, à 3IL puis Ecole PMN ?
 ```javascript
