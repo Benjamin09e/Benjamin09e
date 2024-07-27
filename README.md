@@ -8,6 +8,7 @@
 
 <p align="center">
   Je vis à (Saint-Etienne)/(Paris) ah oui! et je suis développeur web.
+  <a href="https://benjamin-ekia.netlify.app/">Ici mon portfolio</a>
 </p> 
 
 ### Pourquoi développeur web ?
