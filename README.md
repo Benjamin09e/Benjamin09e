@@ -67,7 +67,7 @@ Je partage mes connaissances sur des questions précises afin d'aider au mieux l
 j'essaye de faire en sorte que pour le maximum de personnes cela ne finisse pas par une erreur sur leurs écrans.<br/>
 *(Cela me rappelle vaguement une sensation)*
 
-**L'essentiel de mes projets et cours sont détaillés sur mon portfolio avec des explications précises et illustrées.**<br/>
+**L'essentiel de mes projets et cours sont détaillés sur <a href="https://benjamin-web-folio.netlify.app/">mon portfolio</a> avec des explications précises et illustrées.**<br/>
 
 <p align="center">
   <br/>
