@@ -1,67 +1,111 @@
-<h1 align="center">👋 Salut, moi c’est <strong>Benjamin EKIA MOUANGA</strong></h1>
+<h1 align="center">Salut, moi c'est <strong>Benjamin EKIA</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479ravwcf4k31ixcq6vn9z6e18fxq9q7o7d04sh3ay&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479ravwcf4k31ixcq6vn9z6e18fxq9q7o7d04sh3ay&rid=giphy.gif&ct=g" width="380"/>
 </p>
 
 <p align="center">
-   Basé entre <strong>Lyon</strong> et <strong>Annecy</strong> <br/>
-   <strong>Lead Developer Full-Stack & Expert en Systèmes Informatiques</strong> <br/>
-   Passionné par la conception d’architectures robustes, la performance et la veille technologique.
+  <strong>Lead Developer Full-Stack &nbsp;·&nbsp; Expert Systèmes &nbsp;·&nbsp; Lyon & Annecy</strong><br/>
+  Cofondateur de <strong>GabonTechHub</strong> — faire grandir le numérique en Afrique francophone
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/benjamin-ekia-mouanga-b351351b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ekiabenjamin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@ekiabenjamin">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-##  À propos
+## À propos
 
-Je conçois et pilote des projets web complexes, de la réflexion stratégique jusqu’au déploiement.  
-Mon approche allie **rigueur technique**, **UX thinking** et **scalabilité**.  
+Je conçois et pilote des projets web complexes — de la réflexion stratégique jusqu'au déploiement en production.  
+Mon approche allie **rigueur technique**, **sécurité** et **scalabilité**.
 
-> “Un bon développeur n’écrit pas juste du code, il construit un système qui apprend à durer.”  
-
--  **Spécialité :** architecture logicielle, intégration continue, sécurité et scalabilité  
--  **Stack principale :** React, Node.js, Laravel, Docker, MongoDB  
--  **Compétences système :** CI/CD, conteneurisation, Nginx, optimisation de performance  
--  **UI/UX Design :** Figma, design system & prototypage  
--  **Culture :** veille technologique, partage de connaissances, mentoring technique  
--  **Initiateur de communauté :** [**GabonTechHub**](#) — promouvoir la tech africaine  
-
----
-
-##  Ce que je construis
-
--  **SaaS de gestion de projets** — React + Node.js + Docker + MongoDB  
--  **API REST & Microservices** — architecture modulaire & sécurisée  
--  **Design Systems** — création de librairies UI réutilisables sous Figma + React  
--  **Outils internes** — pipelines CI/CD, monitoring, automatisation des builds  
+Je construis. Je casse. J'écris ce que j'apprends.
 
 ```js
 const Benjamin = {
-  role: "Lead Dev Full-Stack",
-  focus: ["Architecture système", "Performance", "Code propre"],
-  mindset: "Apprendre, optimiser, transmettre",
-  motto: () => "Stay curious, stay scalable ⚙️"
+  role       : "Lead Dev Full-Stack",
+  location   : ["Lyon", "Annecy"],
+  stack      : ["React", "Node.js", "Laravel", "Docker", "MongoDB"],
+  focus      : ["Architecture système", "CI/CD", "Sécurité", "Performance"],
+  community  : "GabonHubTech — tech africaine 🌍",
+  mindset    : () => "Apprendre chaque jour. Transmettre toujours. Construire ensemble."
 };
-Benjamin.motto();
 ```
+
 ---
 
-## Vision & philosophie
+## Stack & outils
 
-Je crois qu’un bon développeur est avant tout un apprenant permanent.
-C’est pourquoi je consacre du temps chaque semaine à la veille technologique, à la documentation et au mentorat.
+**Frontend**
 
-> “Le code évolue, la vision reste.”
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+## Ce que je construis
+
+| Projet | Stack | Description |
+|---|---|---|
+| SaaS gestion de projets | React · Node.js · Docker · MongoDB | Application multi-tenant avec pipeline CI/CD complet |
+| API REST & Microservices | Node.js · Java | Architecture modulaire, sécurisée et documentée |
+| Design Systems | React · Figma | Librairies UI réutilisables avec tokens de design |
+| Outils DevOps | GitHub Actions · Docker | Pipelines CI/CD, monitoring, automatisation des builds |
+
+---
+
+## Derniers articles Medium
+
+<!-- BLOG-POST-LIST:START -->
+- [De 1.1 GB à 180 MB — comment j'ai refait mon Dockerfile from scratch](https://medium.com/@ekiabenjamin)
+- [Alpine vs Distroless : quelle image Docker choisir pour la production ?](https://medium.com/@ekiabenjamin/alpine-vs-distroless-quelle-image-docker-choisir-pour-la-production-ed9505ee42db)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekiabenjamin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekiabenjamin&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## Collaborons
 
-Je suis toujours ouvert à collaborer sur des projets ambitieux, à partager mes compétences,
-ou à accompagner des équipes sur des problématiques d’architecture et de performance.
+Je suis ouvert à des projets ambitieux, du mentoring technique, ou des discussions autour de l'architecture et de la performance.
 
-<p align="center"> <a href="mailto:ekiabenjamin@gmail.com?subject=Hello%20Benjamin!"> <img alt="Email" width="45px" src="https://logos-marques.com/wp-content/uploads/2021/03/Gmail-Logo-2013.png"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/benjamin-ekia-mouanga-b351351b4"> <img alt="LinkedIn" width="45px" src="https://clipground.com/images/linkedin-clipart-5.jpg"/> </a> </p>
-<p align="center"> <img src="https://media2.giphy.com/media/ek9nR2YB2suIiN3kRN/giphy.gif?cid=ecf05e47rraxjsxw6jyaalvmdhzauxj6ix5srerkso73jhj3&rid=giphy.gif&ct=g" width="60%"/> </p> 
-<h4 align="center">
-“L’innovation vient de ceux qui comprennent le système… et osent le repenser.”
-</h4>
+> *"L'innovation vient de ceux qui comprennent le système… et osent le repenser."*
+
+<p align="center">
+  <a href="mailto:ekiabenjamin@gmail.com?subject=Hello%20Benjamin!">
+    <img src="https://img.shields.io/badge/Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
