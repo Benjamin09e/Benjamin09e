@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benjamin-ekia-mouanga-b351351b4">
+  <a href="https://www.linkedin.com/in/benjamin-ekia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
