@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Lead Developer Full-Stack &nbsp;·&nbsp; Expert Systèmes &nbsp;·&nbsp; Lyon & Annecy</strong><br/>
-  Cofondateur de <strong>GabonTechHub</strong> — faire grandir le numérique en Afrique francophone
+  Cofondateur de <strong>GabonTechHub</strong> faire grandir le numérique en Afrique francophone
 </p>
 
 <p align="center">
@@ -21,13 +21,17 @@
   <a href="https://medium.com/@ekiabenjamin">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://devbybenjamin.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
 ## À propos
 
-Je conçois et pilote des projets web complexes — de la réflexion stratégique jusqu'au déploiement en production.  
+Je conçois et pilote des projets web complexes de la réflexion stratégique jusqu'au déploiement en production.  
 Mon approche allie **rigueur technique**, **sécurité** et **scalabilité**.
 
 Je construis. Je casse. J'écris ce que j'apprends.
